@@ -42,22 +42,20 @@
                     <div class="col-lg-6">
                       <div class="rac_about_text">
                         <h4>About Us</h4>
-                        <h3>Trusted By 200 + Satisfied Clients World Wide</h3>
-                        <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed qu Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, to Neque porro quisquam.</p>
+                        <h3>Crafting Culinary Excellence and Unwavering Trust</h3>
+                        <p>At Lalji Caterers, we have been passionately crafting culinary experiences since 2007. Our dedication
+                          to quality ingredients and meticulous service ensures that every event is a testament to flavor and
+                          satisfaction.</p>
+                        <p>
+                          Trusted by countless clients in Akola, Maharashtra, we take pride in exceeding
+                          expectations, making every celebration a savory success.                        </p>
                       </div>
                       <div class="rac_about_bottom">
-                        <div class="rac_about_name">
-                          <img src="assets/images/signature.webp" class="img-fluid">
-                          <h4>David Parker</h4>
-                          <p>Management Director</p>
-                        </div>
+                        
                       </div>
                     </div>
                   </div>
-                  <div class="rac_about_bottom_img">
-                    <img src="assets/images/about_img1.webp" class="img-fluid">
-                  </div>
+                 
                 </div>
               </div>
             </div>
@@ -193,123 +191,99 @@
                 <h3>What We Offer</h3>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div class="col-xl-4 col-lg-4 col-sm-6">
               <div class="rac_service_box">
                 <div class="rac_service_icon icon1">
                   <img src="assets/images/service-1.webp">
                 </div>
                 <div class="rac_service_text">
-                  <h4>Wedding Services</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
+                  <h4>Event Catering</h4>
+                  <p>From weddings to family gatherings, Lalji Caterers delivers exceptional catering services
+                    tailored to make every occasion special. Our diverse menu options cater to various tastes and
+                    dietary preferences, ensuring a memorable dining experience.
+                    </p>
+                  
                 </div>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div class="col-xl-4 col-lg-4 col-sm-6">
               <div class="rac_service_box">
                 <div class="rac_service_icon icon2">
                   <img src="assets/images/service-2.webp">
                 </div>
                 <div class="rac_service_text">
-                  <h4>Corporate Catering</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
+                  <h4>Outdoor Catering</h4>
+                  <p>Experience the convenience and charm of outdoor dining with Lalji Caterers' specialized
+                    services. Whether it's a picnic in the park or an elegant outdoor wedding reception, we bring
+                    our culinary expertise to your chosen location.</p>
+                  
                 </div>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
+            <div class="col-xl-4 col-lg-4 col-sm-6">
+              <div class="rac_service_box" style="
+    height: 280px;
+">
+                <div class="rac_service_icon icon8">
+                  <img src="assets/images/service-8.webp">
+                </div>
+                <div class="rac_service_text">
+                  <h4>Wedding Services</h4>
+                  <p>Make your wedding day unforgettable with Lalji Caterers' comprehensive catering services,
+                    including customized menus and professional service to ensure a seamless celebration.</p>
+                  
+                </div>
+              </div>
+            </div>
+           
+            <div class="col-xl-4 col-lg-4 col-sm-6">
+              <div class="rac_service_box" style="
+    height: 330px;
+">
+                <div class="rac_service_icon icon4">
+                  <img src="assets/images/service-4.webp">
+                </div>
+                <div class="rac_service_text">
+                  <h4>Beverage Services</h4>
+                  <p>Complete your event with our beverage services, offering a refreshing selection of soft
+                    drinks, juices, and specialty beverages to complement your meal and enhance your guests'
+                    experience.
+                    </p>
+                  
+                </div>
+              </div>
+            </div>
+           
+           
+            <div class="col-xl-4 col-lg-4 col-sm-6">
+              <div class="rac_service_box" style="
+              height: 330px;
+          ">
+                <div class="rac_service_icon icon7">
+                  <img src="assets/images/service-7.webp">
+                </div>
+                <div class="rac_service_text">
+                  <h4>Corporate Catering</h4>
+                  <p>Impress clients and colleagues alike with our corporate catering services, designed to elevate
+                    business meetings, conferences, and corporate events with delicious food and impeccable
+                    service.
+                    </p>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-sm-6">
               <div class="rac_service_box">
                 <div class="rac_service_icon icon3">
                   <img src="assets/images/service-3.webp">
                 </div>
                 <div class="rac_service_text">
-                  <h4>Cocktail Reception</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
-              <div class="rac_service_box">
-                <div class="rac_service_icon icon4">
-                  <img src="assets/images/service-4.webp">
-                </div>
-                <div class="rac_service_text">
-                  <h4>Bento Catering</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
-              <div class="rac_service_box">
-                <div class="rac_service_icon icon5">
-                  <img src="assets/images/service-5.webp">
-                </div>
-                <div class="rac_service_text">
-                  <h4>Buffet Catering</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
-              <div class="rac_service_box">
-                <div class="rac_service_icon icon6">
-                  <img src="assets/images/service-6.webp">
-                </div>
-                <div class="rac_service_text">
-                  <h4>Sit-Down Catering</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
-              <div class="rac_service_box">
-                <div class="rac_service_icon icon7">
-                  <img src="assets/images/service-7.webp">
-                </div>
-                <div class="rac_service_text">
-                  <h4>Home Delivery</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6">
-              <div class="rac_service_box">
-                <div class="rac_service_icon icon8">
-                  <img src="assets/images/service-8.webp">
-                </div>
-                <div class="rac_service_text">
-                  <h4>Pub Party</h4>
-                  <p>Ame minim mollit non deserunt ullamco est sit aliqua.</p>
-                  <a href="javascript:void(0);">
-                    <span>Read More</span>
-                    <img src="assets/images/arrow.svg">
-                  </a>
+                  <h4>Custom Menu Planning</h4>
+                  <p>Create a personalized dining experience with Lalji Caterers' custom menu planning services.
+                    We collaborate closely with you to design a menu that reflects your event's theme and
+                    satisfies all your culinary desires. From traditional dishes to international cuisines, we cater to
+                    your preferences and dietary needs.</p>
+                  
                 </div>
               </div>
             </div>
