@@ -16,6 +16,45 @@
       </div>
     </div>
   </div>
+
+  <div class="rac_section rac_about_wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="rac_about_content">
+            <div class="rac_about_box">
+              <div class="row align-items-center">
+                <div class="col-lg-6">
+                  <div class="rac_about_img">
+                    <img src="assets/images/about_img.webp" class="img-fluid">
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="rac_about_text">
+                    <h3>Contact Lalji Caterers</h3>
+                    <p>
+                      Thank you for considering Lalji Caterers for your upcoming event. Whether you're planning
+                      a wedding, corporate gathering, or special celebration in Akola, Maharashtra, we are here to
+                      cater to your needs with our exceptional culinary services.
+                     </p>
+                    <p>
+                      Have questions or ready to discuss your event? Please feel free to contact us via phone, email,
+                      or by filling out the contact form below. Our dedicated team will respond promptly to ensure
+                      your event planning experience with Lalji Caterers is seamless and enjoyable.
+                                          </p>
+                  </div>
+                  <div class="rac_about_bottom">
+                    
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <!-- Inner Pages Banner Section End -->
   <!-- Book Us Section Start -->
   <div class="rac_section rac_booking_wrapper">
