@@ -33,3 +33,18 @@ Route::get('/contact-us', [App\Http\Controllers\FrontController::class, 'contact
 Route::get('/menu', [App\Http\Controllers\FrontController::class, 'menu'])->name('menu');
 Route::get('/event', [App\Http\Controllers\FrontController::class, 'event'])->name('event');
 
+
+
+
+
+Route::prefix('admin')->group(function () {
+    Route::get('/admin-login', [App\Http\Controllers\Admin\AdminLogin::class, 'index'])->name('admin.admin-login');
+    Route::post('LoginAction', [App\Http\Controllers\Admin\AdminLogin::class, 'admin_login'])->name('admin.LoginAction');
+    Route::get('/admin-logout', [App\Http\Controllers\Admin\AdminLogin::class, 'admin_sign_out'])->name('admin.admin-logout');
+    Route::group(['middleware' => ['admin']], function ()
+{
+
+ Route::get('/dashboard', [App\Http\Controllers\Admin\Dashboard::class, 'index'])->name('admin.dashboard');
+});
+
+});
